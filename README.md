@@ -37,7 +37,7 @@ Executables_DecryptUI is a tool designed to streamline the process of retrieving
  - The executables have been resigned and are now ready for use.
 
 
-
+[Youtube Tutorial](https://www.youtube.com/watch?v=xXYcOswg7_E)
 ## Credits
 ### Tools & Articles by
 
