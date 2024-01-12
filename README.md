@@ -50,6 +50,7 @@ Executables_DecryptUI is a tool designed to streamline the process of retrieving
 - [tech128](https://github.com/tech128/socat-1.7.3.0-windows)
 - [LightningMods](https://github.com/LightningMods/Itemzflow)
 - [flatz](https://github.com/flatz)
+- [Tustin](https://github.com/Tustin/pkg-merge)  
 - [EchoStretch](https://github.com/EchoStretch)
 - Gurus who thought me coding
 
