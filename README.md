@@ -5,7 +5,7 @@
 Executables_DecryptUI is a tool designed to streamline the process of retrieving encrypted executables from a game dump, decrypting them, verifying the proper decryption, and signing ELF files and eboot.bin.
 
 ### Grab Latest release from below
--[Executable-Decryptor-UI Releases](https://github.com/EchoStretch)
+-[Executable-Decryptor-UI Releases](https://github.com/rajeshca911/Executable-Decryptor-UI/releases)
 
 
 
